@@ -1,6 +1,6 @@
-# Expense Tracker Application
+# SpendWise - Expense Tracker Application
 
-A full-stack Expense Tracker web application built with a React & Tailwind CSS frontend and a Node.js, Express & MongoDB backend.
+Expense track and save for future. A full-stack Expense Tracker web application built with a React & Tailwind CSS frontend and a Node.js, Express & MongoDB backend.
 
 ## 📁 Project Structure
 
